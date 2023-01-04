@@ -1,8 +1,3 @@
-# Cultivons for YunoHost
-
-[![Integration level](https://dash.yunohost.org/integration/cultivons.svg)](https://dash.yunohost.org/appci/app/cultivons) ![Working status](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)  
-[![Install cultivons with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cultivons)
-
 ## Overview
 
 __Cultivons!__ est un logiciel sous forme de site interne visant à aider à la gestion d'une BAD (Base Autonome Durable).
