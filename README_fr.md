@@ -39,8 +39,8 @@ Avec __Cultivons!__, vous pouvez gérer
 - votre budget.
 
 ### Features
-- 
-- 
+- fr1
+- fr2
 
 **Shipped version:** 1.6
 
