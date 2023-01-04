@@ -84,7 +84,6 @@ sudo yunohost app upgrade cultivons -u https://github.com/YunoHost-Apps/cultivon
 ## Captures d'écran
 
 ![Capture d'écran de Cultivons](./doc/screenshots/cultivonsfull.png)
-![Capture d'écran de Cultivons](./doc/screenshots/example.jpg)
 
 ## Avertissements / informations importantes
 
