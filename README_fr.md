@@ -47,7 +47,9 @@ Avec __Cultivons!__, vous pouvez gérer
 
 ## Avertissements / informations importantes
 
-...
+- Il faut un domaine.
+- La mise à jour semble fonctionner depuis le mécanisme inclus dans le logiciel (à verifier).
+- ...
 
 ## Documentations et ressources
 
