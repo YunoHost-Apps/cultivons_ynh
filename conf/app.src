@@ -1,7 +1,7 @@
-SOURCE_URL=https://xulops.net/forge/cultivons.php?f=download&pk=41&v=15ea580cecfde61259043464c4fff9dd
-SOURCE_SUM=380a585db03a328b458eb593037b631084a11c7021eadaacf35b419651914714
+SOURCE_URL=https://xulops.net/forge/cultivons.php?f=download&pk=42&v=72362bd6539335892871e8189eb85591
+SOURCE_SUM=5fdad5ab3ad5052008277f3c456e90bbecbe7ec2f52d84e1fa9333f9a8c41d5c
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=false
-SOURCE_FILENAME=cultivons_v1.6.zip
+SOURCE_FILENAME=cultivons_v1.7.zip
 SOURCE_EXTRACT=true
