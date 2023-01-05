@@ -3,8 +3,8 @@
     "id": "cultivons",
     "packaging_format": 1,
     "description": {
-        "en": "Cultivons is a software in the form of an internal site aiming at helping the management of a BAD (Sustainable Autonomous Base).",
-        "fr": "Cultivons est un logiciel sous forme de site interne visant à aider à la gestion d'une BAD (Base Autonome Durable)."        
+        "en": "Sustainable Autonomous Base Manager",
+        "fr": "Gestionnaire de Base Autonome Durable"        
     },
     "version": "1.0~ynh1",
     "url": "https://xulops.net/forge/cultivons.php",
