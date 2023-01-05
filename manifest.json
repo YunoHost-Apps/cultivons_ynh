@@ -9,14 +9,14 @@
     "version": "1.0~ynh1",
     "url": "https://xulops.net/forge/cultivons.php",
     "upstream": {
-        "license": "free",
+        "license": "Apache 2.0",
         "website": "https://xulops.net/forge/cultivons.php",
         "demo": "https://cultivons-demo.xulops.net",
         "admindoc": "",
         "userdoc": "",
         "code": ""
     },
-    "license": "free",
+    "license": "Apache 2.0",
     "maintainer": {
         "name": "Pierre Levasseur",
         "email": "pierre.levasseur+yunohost@free.fr"
