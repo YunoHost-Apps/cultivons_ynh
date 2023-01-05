@@ -47,7 +47,6 @@ With __cultivons!__, you can manage
 ## Disclaimers / important information
 
 - **Cultivons!** require a dedicated **root domain**, eg. cultivons.domain.tld
-- ...
 
 ## Documentation and resources
 
