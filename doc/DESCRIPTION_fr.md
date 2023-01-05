@@ -4,13 +4,12 @@ Une BAD est un endroit où une ou plusieurs personnes peuvent (sur)vivre à une 
 
 Cette définition est un peu large, dans les faits une BAD se matérialisera souvent par un endroit à la campagne où on tentera d’être au maximum autonome sur les aspects les plus importants de la survie :
 
-- la nourriture (potager, verger, animaux … tout ce qui est culture et élevage) ;
+- la nourriture (potager, verger, animaux... tout ce qui est culture et élevage) ;
 - électricité ;
 - eau (y compris la potabilisation) ;
 - chauffage ;
 - premiers soins ;
-- stockage de recettes, guides et autres documentations ;
-- …
+- stockage de recettes, guides et autres documentations...
 
 Avec __Cultivons!__, vous pouvez gérer 
 - vos cultures, votre jardin et les tâches associes (semis, récoltes) ainsi qu'un plan.
