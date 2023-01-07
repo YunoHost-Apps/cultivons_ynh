@@ -35,6 +35,13 @@ With __cultivons!__, you can manage
 - your documents,
 - your budget (Bank Account).
 
+### Features
+- ... 
+- ...
+
+### Articles
+- https://linuxfr.org/users/xulops/journaux/cultivons-logiciel-de-gestion-de-bad
+
 
 **Shipped version:** 1.0~ynh1
 
