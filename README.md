@@ -37,8 +37,11 @@ With __cultivons!__, you can manage
 - your budget (Bank Account).
 
 ### Features
-- eng1 
-- eng2
+- ... 
+- ...
+
+### Articles
+- https://linuxfr.org/users/xulops/journaux/cultivons-logiciel-de-gestion-de-bad
 
 
 **Shipped version:** 1.0~ynh1
