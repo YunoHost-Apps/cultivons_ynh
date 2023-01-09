@@ -57,6 +57,9 @@ Avec __Cultivons!__, vous pouvez gérer
 ## Documentations et ressources
 
 * Site officiel de l'app : <https://xulops.net/forge/cultivons.php>
+* Documentation officielle utilisateur : <https://xulops.net/forge/cultivons.php?menu=about>
+* Documentation officielle de l'admin : <https://xulops.net/forge/cultivons.php?menu=about>
+* Dépôt de code officiel de l'app : <https://xulops.net/forge/cultivons.php?menu=download>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_cultivons>
 * Signaler un bug : <https://github.com/YunoHost-Apps/cultivons_ynh/issues>
 
