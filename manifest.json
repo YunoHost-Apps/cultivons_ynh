@@ -12,9 +12,9 @@
         "license": "Apache-2.0",
         "website": "https://xulops.net/forge/cultivons.php",
         "demo": "https://cultivons-demo.xulops.net",
-        "admindoc": "",
-        "userdoc": "",
-        "code": ""
+        "admindoc": "https://xulops.net/forge/cultivons.php?menu=about",
+        "userdoc": "https://xulops.net/forge/cultivons.php?menu=about",
+        "code": "https://xulops.net/forge/cultivons.php?menu=download"
     },
     "license": "Apache-2.0",
     "maintainer": {
