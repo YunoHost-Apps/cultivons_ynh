@@ -21,13 +21,12 @@ An BAD is a place where one or more people can (over)live a disaster (natural, p
 
 This definition is a little broad, in fact a BAD will often materialize by a place in the countryside where one will try to be as autonomous as possible on the most important aspects of survival:
 
-* food (vegetable garden, orchard, animals ... everything that is culture and breeding) ;
-* electricity ;
-* water (including potabilization) ;
-* heating ;
-* first aid ;
-* storage of recipes, guides and other documentation ;
-* ...
+* food (vegetable garden, orchard, animals... everything that is culture and breeding);
+* electricity;
+* water (including potabilization);
+* heating;
+* first aid;
+* storage of recipes, guides and other documentation...
 
 With __cultivons!__, you can manage 
 - your crops, your garden and the associated tasks (semi, harvest) as well as garden plan.
@@ -55,7 +54,6 @@ With __cultivons!__, you can manage
 ## Disclaimers / important information
 
 - **Cultivons!** require a dedicated **root domain**, eg. cultivons.domain.tld
-- ...
 
 ## Documentation and resources
 

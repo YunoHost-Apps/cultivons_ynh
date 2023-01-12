@@ -7,9 +7,6 @@
 	; Manifest
 		domain="domain.tld"
 		is_public=0
-		language="fr"
-		admin="john"
-		password="1Strong-Password"
 	; Checks
 		pkg_linter=1
 		setup_sub_dir=0
