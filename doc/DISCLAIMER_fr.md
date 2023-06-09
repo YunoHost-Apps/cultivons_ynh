@@ -1,2 +1,0 @@
-- Il faut un domaine (ex : cultivons.domain.tld) .
-- La mise à jour semble fonctionner depuis le mécanisme inclus dans le logiciel (à verifier).
