@@ -5,15 +5,16 @@ It shall NOT be edited by hand.
 
 # Cultivons pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/cultivons.svg)](https://dash.yunohost.org/appci/app/cultivons) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/cultivons.svg)](https://dash.yunohost.org/appci/app/cultivons) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
+
 [![Installer Cultivons avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cultivons)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Cultivons rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Cultivons rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 __Cultivons!__ est un logiciel sous forme de site interne visant à aider à la gestion d'une BAD (Base Autonome Durable).
 
@@ -44,9 +45,9 @@ Avec __Cultivons!__, vous pouvez gérer
 
 **Démo :** https://cultivons-demo.xulops.net
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Cultivons](./doc/screenshots/cultivonsfull.png)
+![Capture d’écran de Cultivons](./doc/screenshots/cultivonsfull.png)
 
 ## Avertissements / informations importantes
 
@@ -55,10 +56,10 @@ Avec __Cultivons!__, vous pouvez gérer
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://xulops.net/forge/cultivons.php>
+* Site officiel de l’app : <https://xulops.net/forge/cultivons.php>
 * Documentation officielle utilisateur : <https://xulops.net/forge/cultivons.php?menu=about>
-* Documentation officielle de l'admin : <https://xulops.net/forge/cultivons.php?menu=about>
-* Dépôt de code officiel de l'app : <https://xulops.net/forge/cultivons.php?menu=download>
+* Documentation officielle de l’admin : <https://xulops.net/forge/cultivons.php?menu=about>
+* Dépôt de code officiel de l’app : <https://xulops.net/forge/cultivons.php?menu=download>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_cultivons>
 * Signaler un bug : <https://github.com/YunoHost-Apps/cultivons_ynh/issues>
 
@@ -74,4 +75,4 @@ ou
 sudo yunohost app upgrade cultivons -u https://github.com/YunoHost-Apps/cultivons_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
