@@ -5,7 +5,7 @@ name = "Cultivons"
 description.en = "Sustainable Autonomous Base Manager"
 description.fr = "Gestionnaire de Base Autonome Durable"
 
-version = "1.0~ynh1"
+version = "1.8~ynh1"
 
 maintainers = ["Pierre Levasseur"]
 
@@ -40,8 +40,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://xulops.net/forge/cultivons.php?f=download&pk=42&v=72362bd6539335892871e8189eb85591"
-        sha256 = "5fdad5ab3ad5052008277f3c456e90bbecbe7ec2f52d84e1fa9333f9a8c41d5c"
+        url = "https://xulops.net/forge/cultivons.php?f=download&pk=43&v=266a047613f488f2bc0bac772667ac27"
+        sha256 = "2834a0b744eaf9318c5d85a10eecd52ab4553a47268f7c0ddfc89dc8089e0589"
         in_subdir = false
 
 
