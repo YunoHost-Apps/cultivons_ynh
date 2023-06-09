@@ -52,10 +52,6 @@ With __cultivons!__, you can manage
 
 ![Screenshot of Cultivons](./doc/screenshots/cultivonsfull.png)
 
-## Disclaimers / important information
-
-- **Cultivons!** require a dedicated **root domain**, eg. cultivons.domain.tld
-
 ## Documentation and resources
 
 * Official app website: <https://xulops.net/forge/cultivons.php>
