@@ -42,7 +42,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://xulops.net/forge/cultivons.php?f=download&pk=43&v=266a047613f488f2bc0bac772667ac27"
         sha256 = "2834a0b744eaf9318c5d85a10eecd52ab4553a47268f7c0ddfc89dc8089e0589"
-        in_subdir = false
+        #in_subdir = false
 
 
     [resources.system_user]
