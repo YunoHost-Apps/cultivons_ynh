@@ -49,11 +49,6 @@ Avec __Cultivons!__, vous pouvez gérer
 
 ![Capture d’écran de Cultivons](./doc/screenshots/cultivonsfull.png)
 
-## Avertissements / informations importantes
-
-- Il faut un domaine (ex : cultivons.domain.tld) .
-- La mise à jour semble fonctionner depuis le mécanisme inclus dans le logiciel (à verifier).
-
 ## Documentations et ressources
 
 * Site officiel de l’app : <https://xulops.net/forge/cultivons.php>
