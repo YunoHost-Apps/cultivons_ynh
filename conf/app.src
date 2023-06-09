@@ -1,7 +1,0 @@
-SOURCE_URL=https://xulops.net/forge/cultivons.php?f=download&pk=42&v=72362bd6539335892871e8189eb85591
-SOURCE_SUM=5fdad5ab3ad5052008277f3c456e90bbecbe7ec2f52d84e1fa9333f9a8c41d5c
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
-SOURCE_IN_SUBDIR=false
-SOURCE_FILENAME=cultivons_v1.7.zip
-SOURCE_EXTRACT=true
