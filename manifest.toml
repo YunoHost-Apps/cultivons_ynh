@@ -36,7 +36,7 @@ ram.runtime = "50M"
     help.fr = "Cette page sera accessible par n'importe qui. En revanche, la configuration reste personnelle"
     help.en = "The page will be accessible by anyone."
     type = "group"
-    default = false
+    default = "visitors"
 
 [resources]
         [resources.sources.main]
