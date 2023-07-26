@@ -18,7 +18,7 @@ userdoc = "https://xulops.net/forge/cultivons.php?menu=about"
 code = "https://xulops.net/forge/cultivons.php?menu=download"
 
 [integration]
-yunohost = ">= 11.1.20"
+yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
 ldap = false
