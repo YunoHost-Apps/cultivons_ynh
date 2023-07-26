@@ -33,8 +33,8 @@ ram.runtime = "50M"
     full_domain = true
 
     [install.init_main_permission]
-    help.fr = "Cette page sera accessible par n'importe qui. En revanche, la configuration reste personnelle"
-    help.en = "The page will be accessible by anyone."
+    help.fr = "Si 'visiteurs' est sélectionné, cette page sera accessible par n'importe qui. En revanche, la configuration reste personnelle"
+    help.en = "If 'visitors' is selected, the page will be accessible by anyone. However, the configuration will still remain private."
     type = "group"
     default = "visitors"
 
