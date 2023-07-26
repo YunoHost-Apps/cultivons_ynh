@@ -41,18 +41,13 @@ Avec __Cultivons!__, vous pouvez gérer
 - https://linuxfr.org/users/xulops/journaux/cultivons-logiciel-de-gestion-de-bad
 
 
-**Version incluse :** 1.0~ynh1
+**Version incluse :** 1.8~ynh1
 
 **Démo :** https://cultivons-demo.xulops.net
 
 ## Captures d’écran
 
 ![Capture d’écran de Cultivons](./doc/screenshots/cultivonsfull.png)
-
-## Avertissements / informations importantes
-
-- Il faut un domaine (ex : cultivons.domain.tld) .
-- La mise à jour semble fonctionner depuis le mécanisme inclus dans le logiciel (à verifier).
 
 ## Documentations et ressources
 

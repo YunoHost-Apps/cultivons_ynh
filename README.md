@@ -44,17 +44,13 @@ With __cultivons!__, you can manage
 - https://linuxfr.org/users/xulops/journaux/cultivons-logiciel-de-gestion-de-bad
 
 
-**Shipped version:** 1.0~ynh1
+**Shipped version:** 1.8~ynh1
 
 **Demo:** https://cultivons-demo.xulops.net
 
 ## Screenshots
 
 ![Screenshot of Cultivons](./doc/screenshots/cultivonsfull.png)
-
-## Disclaimers / important information
-
-- **Cultivons!** require a dedicated **root domain**, eg. cultivons.domain.tld
 
 ## Documentation and resources
 

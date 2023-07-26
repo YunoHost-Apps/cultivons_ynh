@@ -1,1 +1,0 @@
-- **Cultivons!** require a dedicated **root domain**, eg. cultivons.domain.tld
