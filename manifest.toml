@@ -5,7 +5,7 @@ name = "Cultivons"
 description.en = "Sustainable Autonomous Base Manager"
 description.fr = "Gestionnaire de Base Autonome Durable"
 
-version = "1.8~ynh1"
+version = "1.8~ynh2"
 
 maintainers = ["Pierre Levasseur"]
 
@@ -30,7 +30,6 @@ ram.runtime = "50M"
 [install]
     [install.domain]
     type = "domain"
-    full_domain = true
 
     [install.init_main_permission]
     help.fr = "Si 'visiteurs' est sélectionné, cette page sera accessible par n'importe qui. En revanche, la configuration reste personnelle"
@@ -45,7 +44,6 @@ ram.runtime = "50M"
         extract = true
         in_subdir = true
         format = "zip"
-
 
     [resources.system_user]
 
