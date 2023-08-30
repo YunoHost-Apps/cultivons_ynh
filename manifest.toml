@@ -1,0 +1,58 @@
+packaging_format = 2
+
+id = "cultivons"
+name = "Cultivons"
+description.en = "Sustainable Autonomous Base Manager"
+description.fr = "Gestionnaire de Base Autonome Durable"
+
+version = "1.8~ynh1"
+
+maintainers = ["Pierre Levasseur"]
+
+[upstream]
+license = "Apache-2.0"
+website = "https://xulops.net/forge/cultivons.php"
+demo = "https://cultivons-demo.xulops.net"
+admindoc = "https://xulops.net/forge/cultivons.php?menu=about"
+userdoc = "https://xulops.net/forge/cultivons.php?menu=about"
+code = "https://xulops.net/forge/cultivons.php?menu=download"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+ldap = false
+sso = false
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+    full_domain = true
+
+    [install.init_main_permission]
+    help.fr = "Si 'visiteurs' est sélectionné, cette page sera accessible par n'importe qui. En revanche, la configuration reste personnelle"
+    help.en = "If 'visitors' is selected, the page will be accessible by anyone. However, the configuration will still remain private."
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://xulops.net/forge/cultivons.php?f=download&pk=43&v=266a047613f488f2bc0bac772667ac27"
+        sha256 = "2834a0b744eaf9318c5d85a10eecd52ab4553a47268f7c0ddfc89dc8089e0589"
+        extract = true
+        in_subdir = true
+        format = "zip"
+
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.apt]
+    packages = "php8.0-fpm, php8.0-sqlite3"
