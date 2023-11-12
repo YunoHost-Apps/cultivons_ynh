@@ -41,7 +41,7 @@ Avec __Cultivons!__, vous pouvez gérer
 - https://linuxfr.org/users/xulops/journaux/cultivons-logiciel-de-gestion-de-bad
 
 
-**Version incluse :** 1.8~ynh2
+**Version incluse :** 1.9~ynh1
 
 **Démo :** https://cultivons-demo.xulops.net
 
