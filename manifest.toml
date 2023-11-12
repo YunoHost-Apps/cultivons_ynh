@@ -5,7 +5,7 @@ name = "Cultivons"
 description.en = "Sustainable Autonomous Base Manager"
 description.fr = "Gestionnaire de Base Autonome Durable"
 
-version = "1.9~ynh2"
+version = "1.9~ynh1"
 
 maintainers = ["Pierre Levasseur"]
 
