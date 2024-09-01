@@ -40,7 +40,7 @@ With __cultivons!__, you can manage
 - https://linuxfr.org/users/xulops/journaux/cultivons-logiciel-de-gestion-de-bad
 
 
-**Paketatutako bertsioa:** 1.9~ynh1
+**Paketatutako bertsioa:** 1.9~ynh2
 
 **Demoa:** <https://cultivons-demo.xulops.net>
 
