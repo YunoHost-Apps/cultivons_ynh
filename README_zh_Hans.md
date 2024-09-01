@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Cultivons
 
-[![集成程度](https://dash.yunohost.org/integration/cultivons.svg)](https://dash.yunohost.org/appci/app/cultivons) ![工作状态](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/cultivons.svg)](https://ci-apps.yunohost.org/ci/apps/cultivons/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
 
 [![使用 YunoHost 安装 Cultivons](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cultivons)
 

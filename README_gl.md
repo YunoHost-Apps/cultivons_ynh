@@ -5,7 +5,7 @@ NON debe editarse manualmente.
 
 # Cultivons para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/cultivons.svg)](https://dash.yunohost.org/appci/app/cultivons) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/cultivons.svg)](https://ci-apps.yunohost.org/ci/apps/cultivons/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
 
 [![Instalar Cultivons con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cultivons)
 
