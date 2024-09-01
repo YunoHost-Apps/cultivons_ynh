@@ -5,7 +5,7 @@ Il NE doit PAS être modifié à la main.
 
 # Cultivons pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/cultivons.svg)](https://dash.yunohost.org/appci/app/cultivons) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
+[![Niveau d’intégration](https://dash.yunohost.org/integration/cultivons.svg)](https://ci-apps.yunohost.org/ci/apps/cultivons/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
 
 [![Installer Cultivons avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cultivons)
 
@@ -41,7 +41,7 @@ Avec __Cultivons!__, vous pouvez gérer
 - https://linuxfr.org/users/xulops/journaux/cultivons-logiciel-de-gestion-de-bad
 
 
-**Version incluse :** 1.9~ynh1
+**Version incluse :** 1.9~ynh2
 
 **Démo :** <https://cultivons-demo.xulops.net>
 

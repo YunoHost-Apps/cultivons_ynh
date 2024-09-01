@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Cultivons YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/cultivons.svg)](https://dash.yunohost.org/appci/app/cultivons) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/cultivons.svg)](https://ci-apps.yunohost.org/ci/apps/cultivons/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
 
 [![Instalatu Cultivons YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cultivons)
 
@@ -40,7 +40,7 @@ With __cultivons!__, you can manage
 - https://linuxfr.org/users/xulops/journaux/cultivons-logiciel-de-gestion-de-bad
 
 
-**Paketatutako bertsioa:** 1.9~ynh1
+**Paketatutako bertsioa:** 1.9~ynh2
 
 **Demoa:** <https://cultivons-demo.xulops.net>
 

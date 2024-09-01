@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Cultivons
 
-[![集成程度](https://dash.yunohost.org/integration/cultivons.svg)](https://dash.yunohost.org/appci/app/cultivons) ![工作状态](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/cultivons.svg)](https://ci-apps.yunohost.org/ci/apps/cultivons/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/cultivons.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/cultivons.maintain.svg)
 
 [![使用 YunoHost 安装 Cultivons](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cultivons)
 
@@ -40,7 +40,7 @@ With __cultivons!__, you can manage
 - https://linuxfr.org/users/xulops/journaux/cultivons-logiciel-de-gestion-de-bad
 
 
-**分发版本：** 1.9~ynh1
+**分发版本：** 1.9~ynh2
 
 **演示：** <https://cultivons-demo.xulops.net>
 
